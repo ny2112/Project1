@@ -11,14 +11,14 @@ $(#"turkeypin").click(function(){
   $("#turkishfood").toggleClass("hidden");
 });
 $(#"pakistanpin").click(function(){
-  $("#pakistanifood").toggleClass("hidden")
+  $("#pakistanifood").toggleClass("hidden");
 });
 $(#"palestinepin").click(function(){
-  $("#palestinianfood").toggleClass("hidden")
+  $("#palestinianfood").toggleClass("hidden");
 });
 $(#"thaipin").click(function(){
-  $("#thaifood").toggleClass("hidden")
+  $("#thaifood").toggleClass("hidden");
 });
 $(#"japanpin").click(function(){
-  $("#japnesefood").toggleClass("hidden")
+  $("#japnesefood").toggleClass("hidden");
 });

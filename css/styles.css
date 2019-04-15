@@ -1,27 +1,49 @@
 body {
   padding-top: 5rem;
-}
-.starter-template {
-  padding: 3rem 1.5rem;
-  text-align: center;
-}
 
- {
-  margin-left: 90px;
 }
 .hidden{
   display: none;
 }
 .header-img{
-  position:relative;
+  position:absolute;
 }
 #britishpin {
   position: absolute;
   left: 550px;
   top: 420px;
 }
-
 #chinapin {
+  position: absolute;
+  left: 200px;
+  top: 150px;
+}
+#morrocopin {
+  position: absolute;
+  left: 200px;
+  top: 150px;
+}
+#turkeypin {
+  position: absolute;
+  left: 200px;
+  top: 150px;
+}
+#palestinepin {
+  position: absolute;
+  left: 200px;
+  top: 150px;
+}
+#pakistanpin {
+  position: absolute;
+  left: 200px;
+  top: 150px;
+}
+#thaipin {
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
+#japanpin {
   position: absolute;
   left: 200px;
   top: 150px;
