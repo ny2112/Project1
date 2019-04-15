@@ -9,3 +9,14 @@ body {
 INPUT {
   margin-left: 90px;
 }
+.hidden{
+  display: none;
+}
+.header-img{
+  position:relative;
+}
+#britishpin {
+  position: absolute;
+  left: 200px;
+  top: 150px;
+}
