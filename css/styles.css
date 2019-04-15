@@ -6,7 +6,7 @@ body {
   text-align: center;
 }
 
-INPUT {
+ {
   margin-left: 90px;
 }
 .hidden{
@@ -17,6 +17,13 @@ INPUT {
 }
 #britishpin {
   position: absolute;
+  left: 550px;
+  top: 420px;
+}
+
+#chinapin {
+  position: absolute;
   left: 200px;
   top: 150px;
 }
+~
